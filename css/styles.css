@@ -10967,6 +10967,14 @@ video.bg-video {
   }
 }
 
+h1 {
+  position: fixed;
+  top: 5%;
+  left: 10%;
+  color: #fff;
+  z-index: 3;
+}
+
 .small {
   font-size: 10px;
   line-height: 1%;
