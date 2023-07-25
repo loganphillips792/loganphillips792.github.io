@@ -56,7 +56,7 @@ div img {
   bottom: 5%;
 }
 
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 600px) {
   div img {
     width: 150%;
   }
