@@ -61,12 +61,15 @@ div img {
   div img {
     width: 150%;
   }
-
-
 }
 
 @media only screen and (max-width: 600px) {
   div img {
     width: 150%;
   }
+
+  p {
+    font-size: 100%;
+  }
+
 }
