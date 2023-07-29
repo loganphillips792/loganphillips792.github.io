@@ -13,7 +13,8 @@
   }
 }
 
-html {
+html,
+body {
   height: 100%;
 }
 
@@ -60,6 +61,8 @@ div img {
   div img {
     width: 150%;
   }
+
+
 }
 
 @media only screen and (max-width: 600px) {
